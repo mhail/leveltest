@@ -45,6 +45,7 @@
 		580B283515E47CAF005C71E2 /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 580B283015E47C60005C71E2 /* libCordova.a */; };
 		580B283715E47DED005C71E2 /* 1345602954_iHandy-Level-x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 580B283615E47DED005C71E2 /* 1345602954_iHandy-Level-x57.png */; };
 		580B283915E47E96005C71E2 /* 1345602954_iHandy-Level-x114.png in Resources */ = {isa = PBXBuildFile; fileRef = 580B283815E47E96005C71E2 /* 1345602954_iHandy-Level-x114.png */; };
+		580B283B15E48085005C71E2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 580B283A15E48085005C71E2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -115,6 +116,7 @@
 		580B282515E47C60005C71E2 /* CordovaLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CordovaLib.xcodeproj; path = CordovaLib/CordovaLib.xcodeproj; sourceTree = "<group>"; };
 		580B283615E47DED005C71E2 /* 1345602954_iHandy-Level-x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1345602954_iHandy-Level-x57.png"; sourceTree = "<group>"; };
 		580B283815E47E96005C71E2 /* 1345602954_iHandy-Level-x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1345602954_iHandy-Level-x114.png"; sourceTree = "<group>"; };
+		580B283A15E48085005C71E2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* LevelTest-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "LevelTest-Info.plist"; path = "../LevelTest-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -184,6 +186,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				580B283A15E48085005C71E2 /* README.md */,
 				580B283815E47E96005C71E2 /* 1345602954_iHandy-Level-x114.png */,
 				580B283615E47DED005C71E2 /* 1345602954_iHandy-Level-x57.png */,
 				580B282515E47C60005C71E2 /* CordovaLib.xcodeproj */,
@@ -412,6 +415,7 @@
 				3088BBC2154F3926009F9C59 /* Default~iphone.png in Resources */,
 				580B283715E47DED005C71E2 /* 1345602954_iHandy-Level-x57.png in Resources */,
 				580B283915E47E96005C71E2 /* 1345602954_iHandy-Level-x114.png in Resources */,
+				580B283B15E48085005C71E2 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
